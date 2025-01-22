@@ -5,6 +5,4 @@ This repository contains a deep learning model that classifies animal images int
 # Overview
 The primary goal of this project was to create an efficient image classification model capable of identifying various animals based on their visual features. The project involved:
 
-Preprocessing the dataset for consistency and augmentation.
-Leveraging transfer learning to use a pretrained ResNet50 model.
-Fine-tuning the model for the animal classification task.
+Preprocessing the dataset for consistency and augmentation, Leveraging transfer learning to use a pretrained ResNet50 model, Fine-tuning the model for the animal classification task.
